@@ -1,1 +1,1 @@
-# mobile-autotests
+# mobile_automation
